@@ -1,4 +1,4 @@
-# Crossword Puzzle
+# Search Christmas words in an image
 
 ![board](board.jpg)
 
