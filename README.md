@@ -1,6 +1,6 @@
 # Search Christmas words in an image
 
-![board](board.jpg)
+![board](board_small.png)
 
 
 Find 30 words hidden in the image above.
@@ -39,4 +39,4 @@ Find 30 words hidden in the image above.
 
 # Result
 
-http://nbviewer.jupyter.org/github/yamaton/search-words-in-image/blob/c59be1f0cefea766d3d98c9768591c3568b4e1d5/word_search.ipynb
+![](./result.png)
