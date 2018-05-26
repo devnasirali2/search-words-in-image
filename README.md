@@ -3,7 +3,6 @@
 ![board](board.jpg)
 
 
-
 Find 30 words hidden in the image above.
 
 - bookstore
@@ -37,3 +36,7 @@ Find 30 words hidden in the image above.
 - toy store
 - traffic jam
 
+
+# Result
+
+http://nbviewer.jupyter.org/github/yamaton/search-words-in-image/blob/c59be1f0cefea766d3d98c9768591c3568b4e1d5/word_search.ipynb
